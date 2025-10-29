@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <next_target>00000000</next_target>
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>mingcong.sun</sys_created_by>
+        <sys_created_on>2025-10-29 07:45:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>86638c83837c7e90988a7aa6feaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_target_values_86638c83837c7e90988a7aa6feaad37c</sys_update_name>
+        <sys_updated_by>mingcong.sun</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:45:06</sys_updated_on>
+        <target display_value="NeedIt: Due Monthly">6052c48f833c7e90988a7aa6feaad324</target>
+        <target_at>20251001</target_at>
+        <target_name>NeedIt: Due Monthly, 3m running SUM</target_name>
+        <target_review>20251031</target_review>
+        <value>9</value>
+    </pa_target_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3852d113ff856254c80bf8e4fc4fd90d</instance_id>
+        <instance_name>dev337789</instance_name>
+        <name>pa_target_values_86638c83837c7e90988a7aa6feaad37c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values"><pa_target_values action="INSERT_OR_UPDATE"><next_target>00000000</next_target><sys_class_name>pa_target_values</sys_class_name><sys_created_by>mingcong.sun</sys_created_by><sys_created_on>2025-10-29 07:45:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>86638c83837c7e90988a7aa6feaad37c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_target_values_86638c83837c7e90988a7aa6feaad37c</sys_update_name><sys_updated_by>mingcong.sun</sys_updated_by><sys_updated_on>2025-10-29 07:45:06</sys_updated_on><target display_value="NeedIt: Due Monthly">6052c48f833c7e90988a7aa6feaad324</target><target_at>20251001</target_at><target_name>NeedIt: Due Monthly, 3m running SUM</target_name><target_review>20251031</target_review><value>9</value></pa_target_values></record_update>]]></payload>
+        <payload_hash>-420046026</payload_hash>
+        <record_name>9</record_name>
+        <reverted_from/>
+        <source>7a2203b6837c3e90988a7aa6feaad3b4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mingcong.sun</sys_created_by>
+        <sys_created_on>2025-10-29 07:45:06</sys_created_on>
+        <sys_id>197340c3837c7e90988a7aa6feaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a2eed79d70000001</sys_recorded_at>
+        <sys_updated_by>mingcong.sun</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:45:06</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>957340c3237c7e90d018a38b84855a6f</update_guid>
+        <update_guid_history>957340c3237c7e90d018a38b84855a6f:-420046026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="9">e7458c8b837c7e90988a7aa6feaad305</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mingcong.sun</sys_created_by>
+        <sys_created_on>2025-10-29 07:53:10</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>894ad4f43d5e4dc0adca0e505fed8290</sys_id>
+        <sys_metadata>86638c83837c7e90988a7aa6feaad37c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_target_values_86638c83837c7e90988a7aa6feaad37c</sys_update_name>
+        <sys_update_version display_value="pa_target_values_86638c83837c7e90988a7aa6feaad37c">197340c3837c7e90988a7aa6feaad370</sys_update_version>
+        <sys_updated_by>mingcong.sun</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:53:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

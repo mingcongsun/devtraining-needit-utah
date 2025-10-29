@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets">
+    <pa_targets action="DELETE">
+        <active>true</active>
+        <aggregate/>
+        <any_element>true</any_element>
+        <breakdown display_value="NeedIt Request type">059707fa83bc3e90988a7aa6feaad352</breakdown>
+        <breakdown_level2/>
+        <color_scheme display_value="5 color traffic light">c9c0c223eb021100ba98ac6aa206feca</color_scheme>
+        <display_name>NeedIt: Due Monthly</display_name>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt: Due Monthly">18b5033683bc3e90988a7aa6feaad329</indicator>
+        <owner/>
+        <responsible_users/>
+        <sys_class_name>pa_targets</sys_class_name>
+        <sys_created_by>mingcong.sun</sys_created_by>
+        <sys_created_on>2025-10-29 07:40:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6052c48f833c7e90988a7aa6feaad324</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>18b5033683bc3e90988a7aa6feaad329</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_targets_6052c48f833c7e90988a7aa6feaad324</sys_update_name>
+        <sys_updated_by>mingcong.sun</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:47:36</sys_updated_on>
+        <values_modified_at>2025-10-29 07:45:06</values_modified_at>
+    </pa_targets>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3852d113ff856254c80bf8e4fc4fd90d</instance_id>
+        <instance_name>dev337789</instance_name>
+        <name>pa_targets_6052c48f833c7e90988a7aa6feaad324</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets"><pa_targets action="INSERT_OR_UPDATE"><active>true</active><aggregate/><any_element>true</any_element><breakdown display_value="NeedIt Request type">059707fa83bc3e90988a7aa6feaad352</breakdown><breakdown_level2/><color_scheme display_value="5 color traffic light">c9c0c223eb021100ba98ac6aa206feca</color_scheme><display_name>NeedIt: Due Monthly</display_name><element/><element_level2/><indicator display_value="NeedIt: Due Monthly">18b5033683bc3e90988a7aa6feaad329</indicator><owner/><responsible_users/><sys_class_name>pa_targets</sys_class_name><sys_created_by>mingcong.sun</sys_created_by><sys_created_on>2025-10-29 07:40:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6052c48f833c7e90988a7aa6feaad324</sys_id><sys_mod_count>2</sys_mod_count><sys_name>18b5033683bc3e90988a7aa6feaad329</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_targets_6052c48f833c7e90988a7aa6feaad324</sys_update_name><sys_updated_by>mingcong.sun</sys_updated_by><sys_updated_on>2025-10-29 07:47:36</sys_updated_on><values_modified_at>2025-10-29 07:45:06</values_modified_at></pa_targets></record_update>]]></payload>
+        <payload_hash>-2009433466</payload_hash>
+        <record_name>18b5033683bc3e90988a7aa6feaad329</record_name>
+        <reverted_from/>
+        <source>7a2203b6837c3e90988a7aa6feaad3b4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mingcong.sun</sys_created_by>
+        <sys_created_on>2025-10-29 07:47:36</sys_created_on>
+        <sys_id>0e048847837c7e90988a7aa6feaad300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a2eefc5120000001</sys_recorded_at>
+        <sys_updated_by>mingcong.sun</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:47:36</sys_updated_on>
+        <type>Target</type>
+        <update_guid>c2044847b67c7e90608c8d45533d69ff</update_guid>
+        <update_guid_history>c2044847b67c7e90608c8d45533d69ff:-2009433466,117300c3bc7c7e90619dcd801b26a04c:990965864,a97204cfca3c7e901e334c474d5b8d1f:-1429938543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Due Monthly">a3454c8b837c7e90988a7aa6feaad303</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mingcong.sun</sys_created_by>
+        <sys_created_on>2025-10-29 07:53:10</sys_created_on>
+        <sys_db_object display_value="" name="pa_targets">pa_targets</sys_db_object>
+        <sys_id>0a9936f42ac04678861e5df60ca9e979</sys_id>
+        <sys_metadata>6052c48f833c7e90988a7aa6feaad324</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>18b5033683bc3e90988a7aa6feaad329</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_targets_6052c48f833c7e90988a7aa6feaad324</sys_update_name>
+        <sys_update_version display_value="pa_targets_6052c48f833c7e90988a7aa6feaad324">0e048847837c7e90988a7aa6feaad300</sys_update_version>
+        <sys_updated_by>mingcong.sun</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:53:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
